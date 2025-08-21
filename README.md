@@ -1,4 +1,4 @@
 Perps Detail
 
-https://astro-btc.github.io/Astro-Perps/
+https://sunnyngo86.github.io/Perps/
 
